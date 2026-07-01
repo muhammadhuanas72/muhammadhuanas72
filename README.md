@@ -1,80 +1,175 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Muhammadhu Anas</h1>
+# Hi there 👋 I'm Muhammadhu Anas
 
 <h3 align="center">
-Frontend Web Developer • AI Enthusiast • Building Modern Web Experiences
+💻 Frontend Web Developer | 🤖 AI Enthusiast | 🚀 Building Modern Web Experiences
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;AI+Powered+Web+Development;Building+Modern+Responsive+Websites;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;AI+Powered+Web+Developer;Building+Responsive+Websites;Full+Stack+Developer+in+Progress;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-💻 Frontend Web Developer passionate about creating modern, responsive websites.
+I'm **Muhammadhu Anas**, a passionate **Frontend Web Developer** who enjoys building modern, responsive, and user-friendly websites with clean UI/UX.
 
-🚀 Experienced in building AI-assisted web applications with beautiful UI/UX.
+I leverage **Artificial Intelligence** to enhance my development workflow, enabling me to create high-quality web applications more efficiently while continuously learning advanced technologies.
 
-🌱 Currently learning
-- Full Stack Development
-- Advanced AI Integration
-- Cloud Deployment
-
-🎯 Goal
-Become a professional Full Stack AI Developer.
-
-⚡ Fun Fact
-
-I enjoy transforming ideas into visually stunning websites.
+I'm currently expanding my expertise toward **Full Stack Development**, cloud deployment, backend development, and AI integration.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Portfolio
+
+🔗 **Portfolio**
+
+https://portfolio-website-cczd.onrender.com
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/muhammadhu-anas-972a80339">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-website-cczd.onrender.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:muhammadhuanas72@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 💻 Tech Stack
 
-### 🛒 E-Commerce Auto Spares
-A modern responsive frontend showcasing an online auto spare parts platform with a clean UI and smooth user experience.
+### Languages
 
-**🔗 Live Demo:** https://ecomautospares.netlify.app/
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,npm" />
+</p>
 
 ---
 
-### 🤖 AI Object Detection System
-A web application that performs real-time object detection using YOLO and OpenCV with an intuitive interface for image and video analysis.
+# 🔥 Featured Projects
 
-**🔗 Live Demo:** https://object-detection-cv-2834.onrender.com/
+## 🛒 E-Commerce Auto Spares
+
+A modern frontend website demonstrating an online automobile spare parts platform.
+
+### Features
+
+* Responsive UI
+* Product Categories
+* Modern Design
+* Smooth Animations
+* Mobile Friendly
+
+🔗 Live Demo
+
+https://ecomautospares.netlify.app/
 
 ---
 
-### 💪 Portable Fitness Studio
-A professional fitness studio website featuring responsive layouts, modern animations, service pages, and booking interface.
+## 🤖 AI Object Detection System
 
-**🔗 Live Demo:** https://portable-fitness-studio.onrender.com/
+A real-time object detection application built using **YOLO**, **OpenCV**, and **Flask**, capable of detecting objects in images and videos through an intuitive web interface.
+
+### Features
+
+* Image Detection
+* Video Detection
+* YOLO Integration
+* Interactive Dashboard
+
+🔗 Live Demo
+
+https://object-detection-cv-2834.onrender.com/
 
 ---
 
-# 📈 GitHub Stats
+## 💪 Portable Fitness Studio
+
+A professional business website developed for a portable fitness service featuring responsive layouts, service pages, and booking interface.
+
+### Features
+
+* Landing Page
+* Services Section
+* Trainer Booking
+* Contact Form
+* Mobile Responsive
+
+🔗 Live Demo
+
+https://portable-fitness-studio.onrender.com/
+
+---
+
+# 🌱 Currently Learning
+
+* Full Stack Web Development
+* Advanced React
+* Node.js
+* MongoDB
+* Cloud Deployment
+* Artificial Intelligence Integration
+* REST APIs
+
+---
+
+# 🎯 Current Goals
+
+✔ Master Full Stack Development
+
+✔ Build AI-Powered Web Applications
+
+✔ Learn Cloud Technologies
+
+✔ Contribute to Open Source
+
+✔ Create Scalable Web Platforms
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -86,7 +181,7 @@ A professional fitness studio website featuring responsive layouts, modern anima
 
 ---
 
-# 💻 Most Used Languages
+# 📊 Most Used Languages
 
 <p align="center">
 
@@ -100,7 +195,7 @@ A professional fitness studio website featuring responsive layouts, modern anima
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadhuanas72&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadhuanas72&theme=algolia&margin-w=15&no-frame=true"/>
 
 </p>
 
@@ -116,10 +211,59 @@ A professional fitness studio website featuring responsive layouts, modern anima
 
 ---
 
-# 👀 Visitor Count
+# ⚡ Development Environment
+
+| Category        | Tools                        |
+| --------------- | ---------------------------- |
+| IDE             | VS Code                      |
+| Version Control | Git & GitHub                 |
+| Frontend        | HTML, CSS, JavaScript, React |
+| Backend         | Flask, Express.js            |
+| Database        | MySQL, MongoDB               |
+| Deployment      | Render, Netlify, Vercel      |
+| API Testing     | Postman                      |
+| UI Design       | Figma                        |
+
+---
+
+# 📫 Contact Me
+
+📧 **Email**
+
+**[muhammadhuanas72@gmail.com](mailto:muhammadhuanas72@gmail.com)**
+
+🌐 **Portfolio**
+
+https://portfolio-website-cczd.onrender.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/muhammadhu-anas-972a80339
+
+---
+
+# 👀 Profile Visitors
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=muhammadhuanas72&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=muhammadhuanas72&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 
 </p>
+
+---
+
+# 💡 Quote
+
+> **"Code with passion. Build with purpose. Learn without limits."**
+
+---
+
+<h3 align="center">
+
+⭐ Thank you for visiting my GitHub Profile! ⭐
+
+If you like my work, don't forget to ⭐ my repositories and connect with me.
+
+Happy Coding! 🚀
+
+</h3>
