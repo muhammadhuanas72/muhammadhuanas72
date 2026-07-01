@@ -226,21 +226,6 @@ https://portable-fitness-studio.onrender.com/
 
 ---
 
-# 📫 Contact Me
-
-📧 **Email**
-
-**[muhammadhuanas72@gmail.com](mailto:muhammadhuanas72@gmail.com)**
-
-🌐 **Portfolio**
-
-https://portfolio-website-cczd.onrender.com
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/muhammadhu-anas-972a80339
-
----
 
 # 👀 Profile Visitors
 
