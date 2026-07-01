@@ -33,132 +33,66 @@ I enjoy transforming ideas into visually stunning websites.
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/muhammadhu-anas-972a80339">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+<a href="https://portfolio-website-cczd.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:muhammadhuanas72@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Featured Projects
 
-### Languages
+### 🛒 E-Commerce Auto Spares
+A modern responsive frontend showcasing an online auto spare parts platform with a clean UI and smooth user experience.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,vercel,netlify"/>
-</p>
+**🔗 Live Demo:** https://ecomautospares.netlify.app/
 
 ---
 
-# 🔥 Featured Projects
+### 🤖 AI Object Detection System
+A web application that performs real-time object detection using YOLO and OpenCV with an intuitive interface for image and video analysis.
 
-## 🛒 E-Commerce Auto Spares
-
-Modern frontend showcasing an online auto spare parts platform.
-
-**Tech**
-HTML • CSS • JavaScript
-
-🔗 Live Demo
-
-YOUR_LINK
+**🔗 Live Demo:** https://object-detection-cv-2834.onrender.com/
 
 ---
 
-## 🤖 AI Object Detection System
+### 💪 Portable Fitness Studio
+A professional fitness studio website featuring responsive layouts, modern animations, service pages, and booking interface.
 
-Real-time object detection using YOLO with an interactive web interface.
-
-**Tech**
-
-Python • Flask • YOLO • OpenCV
+**🔗 Live Demo:** https://portable-fitness-studio.onrender.com/
 
 ---
 
-## 💪 Portable Fitness Studio
-
-Professional business website with booking interface and responsive UI.
-
-**Tech**
-
-HTML • Tailwind CSS • JavaScript
-
----
-
-# 📈 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadhuanas72&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=muhammadhuanas72&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuanas72&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🛠 Development Tools
-
-✔ VS Code
-
-✔ Git
-
-✔ GitHub
-
-✔ Postman
-
-✔ Netlify
-
-✔ Render
-
-✔ Vercel
-
-✔ Figma
 
 ---
 
@@ -166,7 +100,7 @@ HTML • Tailwind CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadhuanas72&theme=algolia&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -176,30 +110,16 @@ HTML • Tailwind CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhuanas72&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# 👀 Visitor Count
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Visitors&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 💬 Quote
-
-> "Great software isn't just built with code—it's crafted with creativity, innovation, and continuous learning."
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<img src="https://komarev.com/ghpvc/?username=muhammadhuanas72&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
